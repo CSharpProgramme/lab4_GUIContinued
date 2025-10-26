@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.pdb
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.visualInheritanceForm.resources
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.Properties.Resources.resources
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.pdb
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.dll.config
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.dll
+C:\Users\steve\Desktop\Lab4_GUIContinued\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.dll

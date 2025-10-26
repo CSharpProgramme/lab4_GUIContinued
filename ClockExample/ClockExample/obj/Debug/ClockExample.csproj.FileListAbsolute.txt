@@ -1,0 +1,12 @@
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.ClockUserControl.resources
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.Properties.Resources.resources
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\bin\Debug\ClockExample.exe.config
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\bin\Debug\ClockExample.exe
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\bin\Debug\ClockExample.pdb
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.ClockForm.resources
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.exe
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.pdb
+C:\Users\steve\Desktop\Lab4_GUIContinued\ClockExample\ClockExample\obj\Debug\ClockExample.exe.config

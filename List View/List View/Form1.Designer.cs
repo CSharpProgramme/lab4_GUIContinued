@@ -33,9 +33,9 @@
             System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem("", 1);
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ListViewTestForm));
             this.browserListView = new System.Windows.Forms.ListView();
-            this.displayLabel = new System.Windows.Forms.Label();
             this.fileFolderImageList = new System.Windows.Forms.ImageList(this.components);
-            this.location = new System.Windows.Forms.Label();
+            this.displayLabel = new System.Windows.Forms.Label();
+            this.locationLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // browserListView
@@ -46,7 +46,7 @@
             listViewItem1,
             listViewItem2});
             this.browserListView.LargeImageList = this.fileFolderImageList;
-            this.browserListView.Location = new System.Drawing.Point(23, 75);
+            this.browserListView.Location = new System.Drawing.Point(122, 70);
             this.browserListView.Name = "browserListView";
             this.browserListView.Size = new System.Drawing.Size(546, 308);
             this.browserListView.SmallImageList = this.fileFolderImageList;
@@ -55,14 +55,6 @@
             this.browserListView.View = System.Windows.Forms.View.List;
             this.browserListView.Click += new System.EventHandler(this.browserListView_Click);
             // 
-            // displayLabel
-            // 
-            this.displayLabel.AutoSize = true;
-            this.displayLabel.Location = new System.Drawing.Point(77, 48);
-            this.displayLabel.Name = "displayLabel";
-            this.displayLabel.Size = new System.Drawing.Size(0, 13);
-            this.displayLabel.TabIndex = 1;
-            // 
             // fileFolderImageList
             // 
             this.fileFolderImageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("fileFolderImageList.ImageStream")));
@@ -70,21 +62,29 @@
             this.fileFolderImageList.Images.SetKeyName(0, "file.bmp");
             this.fileFolderImageList.Images.SetKeyName(1, "folder.bmp");
             // 
-            // location
+            // displayLabel
             // 
-            this.location.AutoSize = true;
-            this.location.Location = new System.Drawing.Point(20, 48);
-            this.location.Name = "location";
-            this.location.Size = new System.Drawing.Size(51, 13);
-            this.location.TabIndex = 2;
-            this.location.Text = "Location:";
+            this.displayLabel.AutoSize = true;
+            this.displayLabel.Location = new System.Drawing.Point(176, 47);
+            this.displayLabel.Name = "displayLabel";
+            this.displayLabel.Size = new System.Drawing.Size(0, 13);
+            this.displayLabel.TabIndex = 1;
+            // 
+            // locationLabel
+            // 
+            this.locationLabel.AutoSize = true;
+            this.locationLabel.Location = new System.Drawing.Point(119, 47);
+            this.locationLabel.Name = "locationLabel";
+            this.locationLabel.Size = new System.Drawing.Size(51, 13);
+            this.locationLabel.TabIndex = 2;
+            this.locationLabel.Text = "Location:";
             // 
             // ListViewTestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.location);
+            this.Controls.Add(this.locationLabel);
             this.Controls.Add(this.displayLabel);
             this.Controls.Add(this.browserListView);
             this.Name = "ListViewTestForm";
@@ -100,7 +100,7 @@
         private System.Windows.Forms.ListView browserListView;
         private System.Windows.Forms.Label displayLabel;
         private System.Windows.Forms.ImageList fileFolderImageList;
-        private System.Windows.Forms.Label location;
+        private System.Windows.Forms.Label locationLabel;
     }
 }
 
