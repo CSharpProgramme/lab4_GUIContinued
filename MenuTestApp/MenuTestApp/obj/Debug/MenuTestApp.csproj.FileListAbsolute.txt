@@ -20,3 +20,14 @@ C:\Users\steve\Desktop\Lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuT
 C:\Users\steve\Desktop\Lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.CoreCompileInputs.cache
 C:\Users\steve\Desktop\Lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe
 C:\Users\steve\Desktop\Lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.MenuTestForm.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.pdb

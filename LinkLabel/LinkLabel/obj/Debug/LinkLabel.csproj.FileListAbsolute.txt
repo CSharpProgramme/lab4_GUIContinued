@@ -8,3 +8,14 @@ C:\Users\steve\Desktop\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateRe
 C:\Users\steve\Desktop\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
 C:\Users\steve\Desktop\LinkLabel\LinkLabel\obj\Debug\LinkLabel.exe
 C:\Users\steve\Desktop\LinkLabel\LinkLabel\obj\Debug\LinkLabel.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.LinkLabel.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\LinkLabel\LinkLabel\obj\Debug\LinkLabel.pdb

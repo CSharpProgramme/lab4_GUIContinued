@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\",
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\multiple_document_interface\\multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|solutionrelative:multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\multiple_document_interface\\multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|solutionrelative:multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\multiple_document_interface\\multiple_document_interface\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|c:\\users\\steve\\onedrive\\desktop\\lab4_guicontinued\\multiple_document_interface\\multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|solutionrelative:multiple_document_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\multiple_document_interface\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|solutionrelative:multiple_document_interface\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\multiple_document_interface\\multiple_document_interface\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\multiple_document_interface\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECDE197C-6A8A-4567-9C32-4D9214836062}|Multiple_Document_Interface\\Multiple_Document_Interface.csproj|solutionrelative:multiple_document_interface\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ChildForm.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs",
               "RelativeDocumentMoniker": "Multiple_Document_Interface\\ChildForm.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs",
               "RelativeToolTip": "Multiple_Document_Interface\\ChildForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ChildForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs",
               "RelativeDocumentMoniker": "Multiple_Document_Interface\\ChildForm.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs [Design]",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\ChildForm.cs [Design]",
               "RelativeToolTip": "Multiple_Document_Interface\\ChildForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T17:47:35.658Z",
@@ -55,24 +55,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs",
               "RelativeDocumentMoniker": "Multiple_Document_Interface\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs",
               "RelativeToolTip": "Multiple_Document_Interface\\Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T16:41:27.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs",
               "RelativeDocumentMoniker": "Multiple_Document_Interface\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\Multiple_Document_Interface\\Multiple_Document_Interface\\Form1.cs [Design]",
               "RelativeToolTip": "Multiple_Document_Interface\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T16:29:04.18Z",

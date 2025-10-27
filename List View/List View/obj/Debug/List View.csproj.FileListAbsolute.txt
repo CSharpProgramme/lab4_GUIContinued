@@ -9,3 +9,14 @@ C:\Users\steve\Desktop\Lab4_GUIContinued\List View\List View\obj\Debug\List View
 C:\Users\steve\Desktop\Lab4_GUIContinued\List View\List View\obj\Debug\List View.exe
 C:\Users\steve\Desktop\Lab4_GUIContinued\List View\List View\obj\Debug\List View.pdb
 C:\Users\steve\Desktop\Lab4_GUIContinued\List View\List View\obj\Debug\List View.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\bin\Debug\List View.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\bin\Debug\List View.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\bin\Debug\List View.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List View.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List View.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List_View.ListViewTestForm.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List View.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\List View\List View\obj\Debug\List View.pdb

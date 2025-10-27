@@ -43,29 +43,32 @@
             "Visual Basic HTP",
             "Visual C++ HTP",
             "Visual C# HTP"});
-            this.itemCheckedListBox.Location = new System.Drawing.Point(90, 97);
+            this.itemCheckedListBox.Location = new System.Drawing.Point(53, 41);
+            this.itemCheckedListBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.itemCheckedListBox.Name = "itemCheckedListBox";
-            this.itemCheckedListBox.Size = new System.Drawing.Size(138, 169);
+            this.itemCheckedListBox.Size = new System.Drawing.Size(205, 257);
             this.itemCheckedListBox.TabIndex = 0;
             this.itemCheckedListBox.Tag = "";
             this.itemCheckedListBox.ItemCheck += new System.Windows.Forms.ItemCheckEventHandler(this.itemCheckedListBox_ItemCheck);
-            this.itemCheckedListBox.SelectedIndexChanged += new System.EventHandler(this.itemCheckedListBox_SelectedIndexChanged);
             // 
             // displayListBox
             // 
             this.displayListBox.FormattingEnabled = true;
-            this.displayListBox.Location = new System.Drawing.Point(247, 97);
+            this.displayListBox.ItemHeight = 20;
+            this.displayListBox.Location = new System.Drawing.Point(288, 41);
+            this.displayListBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.displayListBox.Name = "displayListBox";
-            this.displayListBox.Size = new System.Drawing.Size(137, 173);
+            this.displayListBox.Size = new System.Drawing.Size(204, 264);
             this.displayListBox.TabIndex = 1;
             // 
             // checkedListBox
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(493, 395);
+            this.ClientSize = new System.Drawing.Size(544, 346);
             this.Controls.Add(this.displayListBox);
             this.Controls.Add(this.itemCheckedListBox);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "checkedListBox";
             this.Text = "Checked List Box";
             this.ResumeLayout(false);

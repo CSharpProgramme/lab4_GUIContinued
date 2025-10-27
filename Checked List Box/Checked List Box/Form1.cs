@@ -17,11 +17,6 @@ namespace Checked_List_Box
             InitializeComponent();
         }
 
-        private void itemCheckedListBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void itemCheckedListBox_ItemCheck(object sender, ItemCheckEventArgs e)
         {
             //obtain reference of selected item

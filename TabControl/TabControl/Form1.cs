@@ -31,13 +31,12 @@ namespace TabControl
         {
             displayLabel.ForeColor= Color.Green;
         }
-
-        private void radioButtonPoint16_CheckedChanged(object sender, EventArgs e)
+        private void radioButtonPoint12_CheckedChanged(object sender, EventArgs e)
         {
             displayLabel.Font = new Font(displayLabel.Font.Name, 12);
         }
 
-        private void radioButtonPoint12_CheckedChanged(object sender, EventArgs e)
+        private void radioButtonPoint16_CheckedChanged(object sender, EventArgs e)
         {
             displayLabel.Font = new Font(displayLabel.Font.Name, 16);
         }

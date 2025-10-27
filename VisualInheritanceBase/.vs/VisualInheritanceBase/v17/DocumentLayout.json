@@ -1,24 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\",
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\visualinheritancebase\\visualinheritancebase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|c:\\users\\steve\\onedrive\\desktop\\lab4_guicontinued\\visualinheritancebase\\visualinheritancebase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|solutionrelative:visualinheritancebase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\visualinheritancebase\\visualinheritancebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\visualinheritancebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|solutionrelative:visualinheritancebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\visualinheritancebase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\visualinheritancebase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|solutionrelative:visualinheritancebase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VisualInheritanceBase||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA4C12C-5D1B-41AD-8C3E-1F7CA15B06BC}|VisualInheritanceBase\\VisualInheritanceBase.csproj|c:\\users\\steve\\desktop\\lab4_guicontinued\\visualinheritancebase\\visualinheritancebase\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +31,32 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Program.cs",
               "RelativeDocumentMoniker": "VisualInheritanceBase\\Program.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Program.cs",
               "RelativeToolTip": "VisualInheritanceBase\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:02:00.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T20:02:00.586Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VisualInheritanceBase",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\VisualInheritanceBase.csproj",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\VisualInheritanceBase.csproj",
               "RelativeDocumentMoniker": "VisualInheritanceBase\\VisualInheritanceBase.csproj",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\VisualInheritanceBase.csproj",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\VisualInheritanceBase.csproj",
               "RelativeToolTip": "VisualInheritanceBase\\VisualInheritanceBase.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-22T19:50:36.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T19:50:36.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs",
               "RelativeDocumentMoniker": "VisualInheritanceBase\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs",
               "RelativeToolTip": "VisualInheritanceBase\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +67,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs",
               "RelativeDocumentMoniker": "VisualInheritanceBase\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\lab4_GUIContinued\\VisualInheritanceBase\\VisualInheritanceBase\\Form1.cs [Design]",
               "RelativeToolTip": "VisualInheritanceBase\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T19:46:12.995Z",

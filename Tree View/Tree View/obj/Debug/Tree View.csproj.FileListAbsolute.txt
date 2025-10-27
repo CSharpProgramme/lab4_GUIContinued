@@ -8,3 +8,14 @@ C:\Users\steve\Desktop\Lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View
 C:\Users\steve\Desktop\Lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.csproj.CoreCompileInputs.cache
 C:\Users\steve\Desktop\Lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.exe
 C:\Users\steve\Desktop\Lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\bin\Debug\Tree View.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\bin\Debug\Tree View.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\bin\Debug\Tree View.pdb
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.exe.config
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree_View.treeViewForm.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree_View.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.exe
+C:\Users\steve\OneDrive\Desktop\lab4_GUIContinued\Tree View\Tree View\obj\Debug\Tree View.pdb
