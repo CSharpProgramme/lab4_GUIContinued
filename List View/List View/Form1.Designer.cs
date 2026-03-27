@@ -59,8 +59,8 @@
             // 
             this.fileFolderImageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("fileFolderImageList.ImageStream")));
             this.fileFolderImageList.TransparentColor = System.Drawing.Color.Transparent;
-            this.fileFolderImageList.Images.SetKeyName(0, "file.bmp");
-            this.fileFolderImageList.Images.SetKeyName(1, "folder.bmp");
+            this.fileFolderImageList.Images.SetKeyName(0, "folder.bmp");
+            this.fileFolderImageList.Images.SetKeyName(1, "file.bmp");
             // 
             // displayLabel
             // 

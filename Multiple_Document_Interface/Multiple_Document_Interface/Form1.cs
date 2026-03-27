@@ -46,7 +46,7 @@ namespace Multiple_Document_Interface
         }
 
         //set Cascade layout
-        private void caaascadeToolStripMenuItem_Click(object sender, EventArgs e)
+        private void cascadeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.LayoutMdi(MdiLayout.Cascade);
         }
@@ -62,5 +62,6 @@ namespace Multiple_Document_Interface
         {
             this.LayoutMdi(MdiLayout.TileVertical);
         }
+
     }
 }
